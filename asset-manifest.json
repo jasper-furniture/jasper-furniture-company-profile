@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jasper-furniture-company-profile/static/css/main.a8381432.css",
-    "main.js": "/jasper-furniture-company-profile/static/js/main.4a2c6600.js",
+    "main.js": "/jasper-furniture-company-profile/static/js/main.33ccbc56.js",
     "static/js/453.d16878e3.chunk.js": "/jasper-furniture-company-profile/static/js/453.d16878e3.chunk.js",
     "index.html": "/jasper-furniture-company-profile/index.html",
     "main.a8381432.css.map": "/jasper-furniture-company-profile/static/css/main.a8381432.css.map",
-    "main.4a2c6600.js.map": "/jasper-furniture-company-profile/static/js/main.4a2c6600.js.map",
+    "main.33ccbc56.js.map": "/jasper-furniture-company-profile/static/js/main.33ccbc56.js.map",
     "453.d16878e3.chunk.js.map": "/jasper-furniture-company-profile/static/js/453.d16878e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8381432.css",
-    "static/js/main.4a2c6600.js"
+    "static/js/main.33ccbc56.js"
   ]
 }
